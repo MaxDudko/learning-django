@@ -1,0 +1,15 @@
+body:before{
+    z-index:-1;
+    position:absolute;
+    left:0;
+    top:0;
+    content: url("images/background.png");
+    opacity:0.1;
+}
+
+li a {
+    color: green;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
